@@ -1,33 +1,43 @@
-# CSharpAdvancedJanuary2023
+# C# Advanced - January 2023
+
+## Course Overview
+The "C# Advanced" course builds on basic C# and .NET knowledge, introducing more complex concepts typical for the language. This course will enhance your understanding and skills in creating and managing linear data structures, working with arrays, generics, and solving algorithmic problems.
+
+## Skills  Acquire
+- Creating template classes
+- Working with multidimensional and associative data structures
+- Implementing linear data structures
+- Applying basic algorithms
+- Functional programming techniques
+- Handling data streams, files, and directories
+
+## Course Topics
+- **Resources and Course Introduction**
+- **Stacks and Queues**
+  - Exercise: Stacks and Queues
+- **Multidimensional Arrays**
+  - Exercise: Multidimensional Arrays
+- **Sets and Dictionaries Advanced**
+  - Exercise: Sets and Dictionaries Advanced
+- **Streams, Files, and Directories**
+  - Exercise: Streams, Files, and Directories
+- **Functional Programming**
+  - Exercise: Functional Programming
+- **Defining Classes**
+  - Exercise: Defining Classes
+- **Implementing Linked List**
+- **Implementing Stack and Queue**
+- **Generics**
+  - Exercise: Generics
+- **Iterators and Comparators**
+  - Exercise: Iterators and Comparators
+- **Exam Preparation**
+  - Regular Exam
+  - Retake Exam
 
 
-The "C# Advanced" module provides an opportunity to study the .NET platform and the C# language in various aspects. The focus is on building algorithmic thinking and learning the principles of object-oriented programming. The knowledge that the module provides includes working with linear data structures and their implementation in C#, working with streams, files and directories, creating template classes, software testing and software development design patterns. As a result of the acquired knowledge, at the end of the module, students will be able to build large projects, navigate them and test them, applying popular methodologies and good practices for writing code.
-# Skills
-
-:heavy_check_mark: Working with multidimensional and associative data structures
-
-:heavy_check_mark: Creating linear data structures
-
-:heavy_check_mark: Application of basic algorithms
-
-:heavy_check_mark: Application of functional programming
-
-:heavy_check_mark: Work with data streams, files and directories
-
-:heavy_check_mark: Create template classes
-
-:heavy_check_mark: Application of the principles of object-oriented programming
-
-:heavy_check_mark: Creating a class hierarchy and inheritance
-
-:heavy_check_mark: Using the Reflection API
-
-:heavy_check_mark: Data encapsulation
-
-:heavy_check_mark: Unit Testing
-
-:heavy_check_mark: Application of the object-oriented programming paradigm
 
 
-# Lessons
-![image](https://user-images.githubusercontent.com/107812744/211141159-dc36be51-895b-4559-8430-431bd4b63625.png)
+
+![C# Advanced - January 2023 - Certificate (1)](https://github.com/IvanAbadjiev/CSharpAdvancedJanuary2023/assets/107812744/8ed0d240-c72f-4e55-b6d3-825fb90fb7bd)
+
